@@ -21,7 +21,7 @@ Below are the snapshots of the interactive dashboard developed for this analysis
 ![HR Attrition Dashboard Overview](./Screenshot%202026-05-11%20131857.png)
 ![HR Attrition Detailed Metrics](./Screenshot%202026-05-11%20131936.png)<img width="811" height="458" alt="Screenshot 2026-05-11 131857" src="https://github.com/user-attachments/assets/011703f9-8f1c-4894-b14e-0c50f243484a" />
 <img width="813" height="435" alt="Screenshot 2026-05-11 131936" src="https://github.com/user-attachments/assets/7b9071fc-a5c1-4484-aad6-f679845adf35" />
-<img width="811" height="458" alt="Screenshot 2026-05-11 131857" src="https://github.com/user-attachments/assets/d4337dae-234b-468d-867a-fec47a5fa356" />
+
 
 
 ---
